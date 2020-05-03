@@ -1,0 +1,30 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A	mro.py	/^class A:$/;"	c
+AnswerDict	sublclassing_buildins.py	/^class AnswerDict(dict):$/;"	c
+AnswerDict2	sublclassing_buildins.py	/^class AnswerDict2(collections.UserDict):$/;"	c
+B	mro.py	/^class B:$/;"	c
+C	mro.py	/^class C(A):$/;"	c
+D	mro.py	/^class D(B, C):$/;"	c
+DD	sublclassing_buildins.py	/^DD = DoppelDict(one=1)$/;"	v
+DD	sublclassing_buildins.py	/^DD = DoppelDict2(one=1)$/;"	v
+DoppelDict	sublclassing_buildins.py	/^class DoppelDict(dict):$/;"	c
+DoppelDict2	sublclassing_buildins.py	/^class DoppelDict2(collections.UserDict):$/;"	c
+__getitem__	sublclassing_buildins.py	/^    def __getitem__(self, key):$/;"	m	class:AnswerDict	file:
+__getitem__	sublclassing_buildins.py	/^    def __getitem__(self, key):$/;"	m	class:AnswerDict2	file:
+__setitem__	sublclassing_buildins.py	/^    def __setitem__(self, key, value):$/;"	m	class:DoppelDict	file:
+__setitem__	sublclassing_buildins.py	/^    def __setitem__(self, key, value):$/;"	m	class:DoppelDict2	file:
+ad	sublclassing_buildins.py	/^ad = AnswerDict(a="foo")$/;"	v
+ad	sublclassing_buildins.py	/^ad = AnswerDict2(a="foo")$/;"	v
+d	mro.py	/^d = D()$/;"	v
+d	sublclassing_buildins.py	/^d = {}$/;"	v
+ping	mro.py	/^    def ping(self):$/;"	m	class:A
+ping	mro.py	/^    def ping(self):$/;"	m	class:D
+pingpong	mro.py	/^    def pingpong(self):$/;"	m	class:D
+pong	mro.py	/^    def pong(self):$/;"	m	class:B
+pong	mro.py	/^    def pong(self):$/;"	m	class:C
+print_mro	mro.py	/^def print_mro(cls):$/;"	f

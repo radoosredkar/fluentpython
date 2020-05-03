@@ -1,0 +1,53 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Bingo	Implemented_tombolas.py	/^class Bingo(Tombola):$/;"	c
+Card	FrenchDeck2.py	/^Card = collections.namedtuple('Card', ['rank', 'suit'])$/;"	v
+Foo	sequence.py	/^class Foo:$/;"	c
+FrencDeck2	FrenchDeck2.py	/^class FrencDeck2(collections.MutableSequence):$/;"	c
+LoterryBlower	Implemented_tombolas.py	/^class LoterryBlower(Tombola):$/;"	c
+TEST_FILE	tombola_runner.py	/^TEST_FILE = 'tombola_tests.rts'$/;"	v
+TEST_MSG	tombola_runner.py	/^TEST_MSG = '{0:16} {1.attempted:2} tests, {1.failed:2} failed - {2}'$/;"	v
+Tombola	tombola.py	/^class Tombola(abc.ABC):$/;"	c
+TombolaList	Implemented_tombolas.py	/^class TombolaList(list):$/;"	c
+__call__	Implemented_tombolas.py	/^    def __call__(self):$/;"	m	class:Bingo	file:
+__delitem__	FrenchDeck2.py	/^    def __delitem__(self, key):$/;"	m	class:FrencDeck2	file:
+__getitem__	FrenchDeck2.py	/^    def __getitem__(self, position):$/;"	m	class:FrencDeck2	file:
+__getitem__	sequence.py	/^    def __getitem__(self, pos):$/;"	m	class:Foo	file:
+__init__	FrenchDeck2.py	/^    def __init__(self):$/;"	m	class:FrencDeck2
+__init__	Implemented_tombolas.py	/^    def __init__(self, iterable):$/;"	m	class:Bingo
+__init__	Implemented_tombolas.py	/^    def __init__(self, iterable):$/;"	m	class:LoterryBlower
+__len__	FrenchDeck2.py	/^    def __len__(self):$/;"	m	class:FrencDeck2	file:
+__setitem__	FrenchDeck2.py	/^    def __setitem__(self, key, value):$/;"	m	class:FrencDeck2	file:
+bingo	Implemented_tombolas.py	/^bingo = Bingo(range(1,30))$/;"	v
+deck	FrenchDeck2.py	/^deck = FrencDeck2()$/;"	v
+deck	sequence.py	/^deck = FrenchDeck()$/;"	v
+foo	sequence.py	/^foo = Foo()$/;"	v
+insert	FrenchDeck2.py	/^    def insert(self, key, value):$/;"	m	class:FrencDeck2
+inspect	Implemented_tombolas.py	/^    def inspect(self):$/;"	m	class:Bingo
+inspect	Implemented_tombolas.py	/^    def inspect(self):$/;"	m	class:LoterryBlower
+inspect	Implemented_tombolas.py	/^    def inspect(self):$/;"	m	class:TombolaList
+inspect	tombola.py	/^    def inspect(self):$/;"	m	class:Tombola
+l	sequence.py	/^l = list(range(10))$/;"	v
+load	Implemented_tombolas.py	/^    def load(self, iterable):$/;"	m	class:Bingo
+load	Implemented_tombolas.py	/^    def load(self, iterable):$/;"	m	class:LoterryBlower
+load	Implemented_tombolas.py	/^    load = list.extend$/;"	v	class:TombolaList
+load	tombola.py	/^    def load(self, iterable):$/;"	m	class:Tombola
+loaded	Implemented_tombolas.py	/^    def loaded(self):$/;"	m	class:Bingo
+loaded	Implemented_tombolas.py	/^    def loaded(self):$/;"	m	class:LoterryBlower
+loaded	Implemented_tombolas.py	/^    def loaded(self):$/;"	m	class:TombolaList
+loaded	tombola.py	/^    def loaded(self):$/;"	m	class:Tombola
+lottery	Implemented_tombolas.py	/^lottery = LoterryBlower(range(39))$/;"	v
+main	tombola_runner.py	/^def main(argv):$/;"	f
+pick	Implemented_tombolas.py	/^    def pick(self):$/;"	m	class:Bingo
+pick	Implemented_tombolas.py	/^    def pick(self):$/;"	m	class:LoterryBlower
+pick	Implemented_tombolas.py	/^    def pick(self):$/;"	m	class:TombolaList
+pick	tombola.py	/^    def pick(self):$/;"	m	class:Tombola
+ranks	FrenchDeck2.py	/^    ranks = [str(n) for n in range(2, 12)] + list('JQKA')$/;"	v	class:FrencDeck2
+set_card	sequence.py	/^def set_card(self, key, value):$/;"	f
+suits	FrenchDeck2.py	/^    suits = 'spades diamonds clubs hears'.split()$/;"	v	class:FrencDeck2
+t	Implemented_tombolas.py	/^t = TombolaList(range(100))$/;"	v
+test	tombola_runner.py	/^def test(cls, verbose=False):$/;"	f

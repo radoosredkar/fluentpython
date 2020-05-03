@@ -1,0 +1,365 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Averager	ch7/average_oo.py	/^class Averager():$/;"	c
+Bingo	ch11/Implemented_tombolas.py	/^class Bingo(Tombola):$/;"	c
+BingoCage	ch5/run.py	/^class BingoCage:$/;"	c
+BulkItemPromo	ch6/strategy_class.py	/^class BulkItemPromo(Promotion):$/;"	c
+Bus	ch8/variables.py	/^class Bus:$/;"	c
+Card	ch1/cart_deck.py	/^Card = collections.namedtuple('Card', ['rank', 'suit'])$/;"	v
+Card	ch11/FrenchDeck2.py	/^Card = collections.namedtuple('Card', ['rank', 'suit'])$/;"	v
+Cheese	ch8/garbage_collection.py	/^class Cheese:$/;"	c
+City	ch2/Tuples.py	/^City = namedtuple('City', 'name country populaton coordinates')$/;"	v
+Command	ch6/command_class.py	/^class Command(ABC):$/;"	c
+Customer	ch6/strategy_class.py	/^Customer = namedtuple('Customer', 'name fidelity')$/;"	v
+Customer	ch6/strategy_function.py	/^Customer = namedtuple('Customer', 'name fidelity')$/;"	v
+Customer	ch7/strategy_function_decorators.py	/^Customer = namedtuple('Customer', 'name fidelity')$/;"	v
+DIAL_CODES	ch3/dicts.py	/^DIAL_CODES = [$/;"	v
+END	ch2/ListsOperations.py	/^END = slice(7, 10)$/;"	v
+FidelityPromo	ch6/strategy_class.py	/^class FidelityPromo(Promotion):$/;"	c
+Foo	ch11/sequence.py	/^class Foo:$/;"	c
+FrencDeck2	ch11/FrenchDeck2.py	/^class FrencDeck2(collections.MutableSequence):$/;"	c
+FrenchDeck	ch1/cart_deck.py	/^class FrenchDeck:$/;"	c
+Gizmo	ch8/variables.py	/^class Gizmo:$/;"	c
+HAYSTACK	ch2/HAYSTACK_NEEDLE.py	/^HAYSTACK = [1, 4, 5, 6, 8, 12, 15, 20, 21, 23, 23, 26, 29, 30]$/;"	v
+HauntedBus	ch8/functions.py	/^class HauntedBus:$/;"	c
+Invoker	ch6/command_class.py	/^class Invoker:$/;"	c
+Invoker	ch6/command_function.py	/^class Invoker:$/;"	c
+LargeOrderPromo	ch6/strategy_class.py	/^class LargeOrderPromo(Promotion):$/;"	c
+LatLing	ch5/funct_programming.py	/^LatLing = namedtuple('LatLing', 'lat lng')$/;"	v
+LatLong	ch2/Tuples.py	/^LatLong = namedtuple('LatLong', 'lat long')$/;"	v
+LightOffCommand	ch6/command_class.py	/^class LightOffCommand(Command):$/;"	c
+LightOnCommand	ch6/command_class.py	/^class LightOnCommand(Command):$/;"	c
+LineItem	ch6/strategy_class.py	/^class LineItem:$/;"	c
+LineItem	ch6/strategy_function.py	/^class LineItem:$/;"	c
+LineItem	ch7/strategy_function_decorators.py	/^class LineItem:$/;"	c
+LoterryBlower	ch11/Implemented_tombolas.py	/^class LoterryBlower(Tombola):$/;"	c
+MIDDLE	ch2/ListsOperations.py	/^MIDDLE = slice(3, 7)$/;"	v
+MacroCommand	ch6/command_class.py	/^class MacroCommand:$/;"	c
+MacroCommand	ch6/command_function.py	/^class MacroCommand:$/;"	c
+Metropolis	ch5/funct_programming.py	/^Metropolis = namedtuple('Metropolis', 'name cc pop coord')$/;"	v
+NEEDLES	ch2/HAYSTACK_NEEDLE.py	/^NEEDLES = [0, 1, 2, 5, 8, 10, 22, 23, 29, 30, 31]$/;"	v
+Order	ch6/strategy_class.py	/^class Order:$/;"	c
+Order	ch6/strategy_function.py	/^class Order:$/;"	c
+Order	ch7/strategy_function_decorators.py	/^class Order:$/;"	c
+Promotion	ch6/strategy_class.py	/^class Promotion(ABC):$/;"	c
+ROW_FMT	ch2/HAYSTACK_NEEDLE.py	/^ROW_FMT = '{0:2d} @ {1:2d} {2}{0:<2d}'$/;"	v
+START	ch2/ListsOperations.py	/^START = slice(0, 3)$/;"	v
+TEST_FILE	ch11/tombola_runner.py	/^TEST_FILE = 'tombola_tests.rts'$/;"	v
+TEST_MSG	ch11/tombola_runner.py	/^TEST_MSG = '{0:16} {1.attempted:2} tests, {1.failed:2} failed - {2}'$/;"	v
+TestVector	ch1/test_vector.py	/^class TestVector(TestCase):$/;"	c
+TestVector2d	ch10/test_vectorV2.py	/^class TestVector2d(TestCase):$/;"	c
+TestVector2d	ch9/test_vector2d.py	/^class TestVector2d(TestCase):$/;"	c
+Tombola	ch11/tombola.py	/^class Tombola(abc.ABC):$/;"	c
+TombolaList	ch11/Implemented_tombolas.py	/^class TombolaList(list):$/;"	c
+UserDIct	ch3/dicts.py	/^class UserDIct(dict):$/;"	c
+Vector	ch1/NumericTypes.py	/^class Vector:$/;"	c
+Vector2d	ch10/vectorV2.py	/^class Vector2d:$/;"	c
+Vector2d	ch9/vector.py	/^class Vector2d:$/;"	c
+_	ch7/decorators.py	/^def _(n):$/;"	f
+_	ch7/decorators.py	/^def _(seq):$/;"	f
+_	ch7/decorators.py	/^def _(text):$/;"	f
+__abs__	ch1/NumericTypes.py	/^    def __abs__(self):$/;"	m	class:Vector	file:
+__abs__	ch10/vectorV2.py	/^    def __abs__(self):$/;"	m	class:Vector2d	file:
+__abs__	ch9/vector.py	/^    def __abs__(self):$/;"	m	class:Vector2d	file:
+__add__	ch1/NumericTypes.py	/^    def __add__(self, other):$/;"	m	class:Vector	file:
+__bool__	ch1/NumericTypes.py	/^    def __bool__(self):$/;"	m	class:Vector	file:
+__bool__	ch10/vectorV2.py	/^    def __bool__(self):$/;"	m	class:Vector2d	file:
+__bool__	ch9/vector.py	/^    def __bool__(self):$/;"	m	class:Vector2d	file:
+__bytes__	ch10/vectorV2.py	/^    def __bytes__(self):$/;"	m	class:Vector2d	file:
+__bytes__	ch9/vector.py	/^    def __bytes__(self):$/;"	m	class:Vector2d	file:
+__call__	ch11/Implemented_tombolas.py	/^    def __call__(self):$/;"	m	class:Bingo	file:
+__call__	ch5/run.py	/^    def __call__(self, *args, **kwargs):$/;"	m	class:BingoCage	file:
+__call__	ch6/command_class.py	/^    def __call__(self, *args, **kwargs):$/;"	m	class:MacroCommand	file:
+__call__	ch6/command_function.py	/^    def __call__(self, *args, **kwargs):$/;"	m	class:MacroCommand	file:
+__call__	ch7/average_oo.py	/^    def __call__(self, new_value):$/;"	m	class:Averager	file:
+__delitem__	ch11/FrenchDeck2.py	/^    def __delitem__(self, key):$/;"	m	class:FrencDeck2	file:
+__eq__	ch10/vectorV2.py	/^    def __eq__(self, other):$/;"	m	class:Vector2d	file:
+__eq__	ch9/vector.py	/^    def __eq__(self, other):$/;"	m	class:Vector2d	file:
+__format__	ch10/vectorV2.py	/^    def __format__(self, fmt_spec=''):$/;"	m	class:Vector2d	file:
+__format__	ch9/vector.py	/^    def __format__(self, format_spec: str):$/;"	m	class:Vector2d	file:
+__getattr__	ch10/vectorV2.py	/^    def __getattr__(self, name):$/;"	m	class:Vector2d	file:
+__getitem__	ch1/cart_deck.py	/^    def __getitem__(self, position):$/;"	m	class:FrenchDeck	file:
+__getitem__	ch10/vectorV2.py	/^    def __getitem__(self, index):$/;"	m	class:Vector2d	file:
+__getitem__	ch11/FrenchDeck2.py	/^    def __getitem__(self, position):$/;"	m	class:FrencDeck2	file:
+__getitem__	ch11/sequence.py	/^    def __getitem__(self, pos):$/;"	m	class:Foo	file:
+__hash__	ch10/vectorV2.py	/^    def __hash__(self):$/;"	m	class:Vector2d	file:
+__hash__	ch9/vector.py	/^    def __hash__(self):$/;"	m	class:Vector2d	file:
+__init__	ch1/NumericTypes.py	/^    def __init__(self, x=0, y=0):$/;"	m	class:Vector
+__init__	ch1/cart_deck.py	/^    def __init__(self):$/;"	m	class:FrenchDeck
+__init__	ch10/vectorV2.py	/^    def __init__(self, components) -> None:$/;"	m	class:Vector2d
+__init__	ch11/FrenchDeck2.py	/^    def __init__(self):$/;"	m	class:FrencDeck2
+__init__	ch11/Implemented_tombolas.py	/^    def __init__(self, iterable):$/;"	m	class:Bingo
+__init__	ch11/Implemented_tombolas.py	/^    def __init__(self, iterable):$/;"	m	class:LoterryBlower
+__init__	ch5/run.py	/^    def __init__(self, items):$/;"	m	class:BingoCage
+__init__	ch6/command_class.py	/^    def __init__(self, command: Command) -> None:$/;"	m	class:Invoker
+__init__	ch6/command_class.py	/^    def __init__(self, commands: list) -> None:$/;"	m	class:MacroCommand
+__init__	ch6/command_function.py	/^    def __init__(self, command) -> None:$/;"	m	class:Invoker
+__init__	ch6/command_function.py	/^    def __init__(self, commands: list) -> None:$/;"	m	class:MacroCommand
+__init__	ch6/strategy_class.py	/^    def __init__(self, customer: Customer, cart, promotion=None) -> None:$/;"	m	class:Order
+__init__	ch6/strategy_class.py	/^    def __init__(self, product, quantity, price):$/;"	m	class:LineItem
+__init__	ch6/strategy_function.py	/^    def __init__(self, customer: Customer, cart, promotion=None) -> None:$/;"	m	class:Order
+__init__	ch6/strategy_function.py	/^    def __init__(self, product, quantity, price):$/;"	m	class:LineItem
+__init__	ch7/average_oo.py	/^    def __init__(self) -> None:$/;"	m	class:Averager
+__init__	ch7/strategy_function_decorators.py	/^    def __init__(self, customer: Customer, cart, promotion=None) -> None:$/;"	m	class:Order
+__init__	ch7/strategy_function_decorators.py	/^    def __init__(self, product, quantity, price):$/;"	m	class:LineItem
+__init__	ch8/functions.py	/^    def __init__(self, passanges=[]) -> None:$/;"	m	class:HauntedBus
+__init__	ch8/garbage_collection.py	/^    def __init__(self, kind) -> None:$/;"	m	class:Cheese
+__init__	ch8/variables.py	/^    def __init__(self) -> None:$/;"	m	class:Gizmo
+__init__	ch8/variables.py	/^    def __init__(self, passanges=None) -> None:$/;"	m	class:Bus
+__init__	ch9/vector.py	/^    def __init__(self, x, y) -> None:$/;"	m	class:Vector2d
+__iter__	ch10/vectorV2.py	/^    def __iter__(self):$/;"	m	class:Vector2d	file:
+__iter__	ch9/vector.py	/^    def __iter__(self):$/;"	m	class:Vector2d	file:
+__len__	ch1/cart_deck.py	/^    def __len__(self):$/;"	m	class:FrenchDeck	file:
+__len__	ch10/vectorV2.py	/^    def __len__(self):$/;"	m	class:Vector2d	file:
+__len__	ch11/FrenchDeck2.py	/^    def __len__(self):$/;"	m	class:FrencDeck2	file:
+__lt__	ch8/garbage_collection.py	/^    def __lt__(self, other):$/;"	m	class:Cheese	file:
+__missing__	ch3/dicts.py	/^    def __missing__(self, key):$/;"	m	class:UserDIct	file:
+__mul__	ch1/NumericTypes.py	/^    def __mul__(self, scalar):$/;"	m	class:Vector	file:
+__repr__	ch1/NumericTypes.py	/^    def __repr__(self) -> str:$/;"	m	class:Vector	file:
+__repr__	ch1/cart_deck.py	/^    def __repr__(self):$/;"	m	class:FrenchDeck	file:
+__repr__	ch10/vectorV2.py	/^    def __repr__(self) -> str:$/;"	m	class:Vector2d	file:
+__repr__	ch6/strategy_class.py	/^    def __repr__(self) -> str:$/;"	m	class:Order	file:
+__repr__	ch6/strategy_function.py	/^    def __repr__(self) -> str:$/;"	m	class:Order	file:
+__repr__	ch7/strategy_function_decorators.py	/^    def __repr__(self) -> str:$/;"	m	class:Order	file:
+__repr__	ch8/garbage_collection.py	/^    def __repr__(self) -> str:$/;"	m	class:Cheese	file:
+__repr__	ch9/vector.py	/^    def __repr__(self) -> str:$/;"	m	class:Vector2d	file:
+__setattr__	ch10/vectorV2.py	/^    def __setattr__(self, name, value):$/;"	m	class:Vector2d	file:
+__setitem__	ch11/FrenchDeck2.py	/^    def __setitem__(self, key, value):$/;"	m	class:FrencDeck2	file:
+__str__	ch10/vectorV2.py	/^    def __str__(self) -> str:$/;"	m	class:Vector2d	file:
+__str__	ch9/vector.py	/^    def __str__(self) -> str:$/;"	m	class:Vector2d	file:
+a	ch8/functions.py	/^a = (1, 2, 3)$/;"	v
+a	ch8/functions.py	/^a = 1$/;"	v
+a	ch8/functions.py	/^a = [1, 2]$/;"	v
+a_set	ch8/garbage_collection.py	/^a_set = {1, 2, 3}$/;"	v
+a_set	ch8/garbage_collection.py	/^a_set = {4, 5, 6}$/;"	v
+alex	ch8/variables.py	/^alex = {'name': 'Charles L. Dodgson', 'born': 1832, 'balance': 950}$/;"	v
+angle	ch10/vectorV2.py	/^    def angle(self, n):$/;"	m	class:Vector2d
+angle	ch9/vector.py	/^    def angle(self):$/;"	m	class:Vector2d
+angles	ch10/vectorV2.py	/^    def angles(self):$/;"	m	class:Vector2d
+average	ch7/average_oo.py	/^    def average(new_value):$/;"	f	function:make_averager
+b	ch8/functions.py	/^b = (4, 5)$/;"	v
+b	ch8/functions.py	/^b = 2$/;"	v
+b	ch8/functions.py	/^b = [5, 6]$/;"	v
+beer_card	ch1/cart_deck.py	/^beer_card = Card(7, 'diamonds')$/;"	v
+best_promo	ch6/strategy_function.py	/^def best_promo(order):$/;"	f
+best_promo	ch7/strategy_function_decorators.py	/^def best_promo(order):$/;"	f
+bingo	ch11/Implemented_tombolas.py	/^bingo = Bingo(range(1,30))$/;"	v
+bingo	ch5/run.py	/^bingo = BingoCage(range(3))$/;"	v
+bisect_fn	ch2/HAYSTACK_NEEDLE.py	/^        bisect_fn = bisect.bisect$/;"	v
+bisect_fn	ch2/HAYSTACK_NEEDLE.py	/^        bisect_fn = bisect.bisect_left$/;"	v
+board	ch2/ListsOperations.py	/^board = [['_'] * 3 for i in range(3)]$/;"	v
+bulk_item_promo	ch6/promos.py	/^def bulk_item_promo(order):$/;"	f
+bulk_item_promo	ch7/promos.py	/^def bulk_item_promo(order):$/;"	f
+bulk_item_promo	ch7/strategy_function_decorators.py	/^def bulk_item_promo(order):$/;"	f
+bus1	ch8/functions.py	/^bus1 = HauntedBus(['Alice', 'Bill'])$/;"	v
+bus1	ch8/variables.py	/^bus1 = Bus(['Alice', 'Bill', 'Claire', 'David'])$/;"	v
+bus2	ch8/functions.py	/^bus2 = HauntedBus()$/;"	v
+bus2	ch8/variables.py	/^bus2 = copy.copy(bus1)$/;"	v
+bus3	ch8/functions.py	/^bus3 = HauntedBus()$/;"	v
+bus3	ch8/variables.py	/^bus3 = copy.deepcopy(bus1)$/;"	v
+buses	ch8/variables.py	/^buses = [bus1, bus2, bus3]$/;"	v
+bye	ch8/garbage_collection.py	/^def bye():$/;"	f
+catalog	ch8/garbage_collection.py	/^catalog = [Cheese('Red Leicester'), Cheese('Tilsit'), Cheese('Brie'), Cheese('Parmesan')]$/;"	v
+cc_name	ch5/funct_programming.py	/^cc_name = itemgetter(1, 0)$/;"	v
+charles	ch8/variables.py	/^charles = {'name': 'Charles L. Dodgson', 'born': 1832}$/;"	v
+clip	ch5/clip.py	/^def clip(text: str, max_len: int = 80) -> str:$/;"	f
+clock	ch7/decorators.py	/^def clock(func):$/;"	f
+clocked	ch7/decorators.py	/^    def clocked(*args, **kwargs):$/;"	f	function:clock
+codes	ch2/LComp_and_gen.py	/^codes = []$/;"	v
+codes	ch2/LComp_and_gen.py	/^codes = [ord(symbol) for symbol in symbols]$/;"	v
+colors	ch2/LComp_and_gen.py	/^colors = 'black white'.split(' ')$/;"	v
+content	ch5/parameters.py	/^content = tag("ul", "Rado Osredkar", "Stara Cesta 45", "1360 Vrhnika", size=1)$/;"	v
+country_code	ch3/dicts.py	/^country_code = {code: country for code, country in country_code.items() if code > 55}$/;"	v
+country_code	ch3/dicts.py	/^country_code = {country: code for country, code in DIAL_CODES}$/;"	v
+dec	ch7/decorators.py	/^    def dec(func):$/;"	f	function:decorator
+deck	ch1/cart_deck.py	/^deck = FrenchDeck()$/;"	v
+deck	ch11/FrenchDeck2.py	/^deck = FrencDeck2()$/;"	v
+deck	ch11/sequence.py	/^deck = FrenchDeck()$/;"	v
+deco	ch7/decorators.py	/^def deco(func: object) -> object:$/;"	f
+decorator	ch7/decorators.py	/^def decorator(active=False):$/;"	f
+delhi	ch2/Tuples.py	/^delhi = City(*delhi_data)$/;"	v
+delhi_data	ch2/Tuples.py	/^delhi_data = ('Delhi NCR', 'IN', 21.935, LatLong(28.613889, 77.208889))$/;"	v
+demo	ch2/HAYSTACK_NEEDLE.py	/^def demo(bisect_fn):$/;"	f
+discount	ch6/strategy_class.py	/^    def discount(self, order: Order):$/;"	m	class:BulkItemPromo
+discount	ch6/strategy_class.py	/^    def discount(self, order: Order):$/;"	m	class:FidelityPromo
+discount	ch6/strategy_class.py	/^    def discount(self, order: Order):$/;"	m	class:LargeOrderPromo
+discount	ch6/strategy_class.py	/^    def discount(self, order: Order):$/;"	m	class:Promotion
+dq	ch2/queues.py	/^dq = deque(range(10), maxlen=10)$/;"	v
+drop	ch8/functions.py	/^    def drop(self, name):$/;"	m	class:HauntedBus
+drop	ch8/variables.py	/^    def drop(self, name):$/;"	m	class:Bus
+due	ch6/strategy_class.py	/^    def due(self):$/;"	m	class:Order
+due	ch6/strategy_function.py	/^    def due(self):$/;"	m	class:Order
+due	ch7/strategy_function_decorators.py	/^    def due(self):$/;"	m	class:Order
+ender	ch8/garbage_collection.py	/^ender = weakref.finalize(s1, bye)$/;"	v
+execute	ch6/command_class.py	/^    def execute(self):$/;"	m	class:Command
+execute	ch6/command_class.py	/^    def execute(self):$/;"	m	class:LightOffCommand
+execute	ch6/command_class.py	/^    def execute(self):$/;"	m	class:LightOnCommand
+f	ch5/parameters.py	/^def f(*, b):$/;"	f
+f	ch8/functions.py	/^def f(a, b):$/;"	f
+fact	ch5/funct_programming.py	/^def fact(n):$/;"	f
+fact	ch5/run.py	/^fact = factorial$/;"	v
+factorial	ch5/run.py	/^def factorial(n):$/;"	f
+factorial	ch7/decorators.py	/^def factorial(n):$/;"	f
+fibonacci	ch7/decorators.py	/^def fibonacci(n):$/;"	f
+fibonacci1	ch7/decorators.py	/^def fibonacci1(n):$/;"	f
+fidelity_promo	ch6/promos.py	/^def fidelity_promo(order):$/;"	f
+fidelity_promo	ch7/promos.py	/^def fidelity_promo(order):$/;"	f
+fidelity_promo	ch7/strategy_function_decorators.py	/^def fidelity_promo(order):$/;"	f
+floats	ch2/Array.py	/^floats = array('d')$/;"	v
+floats	ch2/Array.py	/^floats = array('d', (random() for i in range(10 ** 7)))$/;"	v
+foo	ch11/sequence.py	/^foo = Foo()$/;"	v
+formatter	log.py	/^formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')$/;"	v
+fp	ch2/Array.py	/^fp = open('floats.bin', 'rb')$/;"	v
+fp	ch2/Array.py	/^fp = open('floats.bin', 'wb')$/;"	v
+frombytes	ch10/vectorV2.py	/^    def frombytes(cls, octets):$/;"	m	class:Vector2d
+frombytes	ch9/vector.py	/^    def frombytes(cls, octets):$/;"	m	class:Vector2d
+fruit	ch5/run.py	/^fruit = ['banana', 'apple', 'fig', 'raspberry', 'strawberry', 'cherry']$/;"	v
+fruits	ch2/ListsOperations.py	/^fruits = ['grape', 'raspberry', 'apple', 'banana']$/;"	v
+grade	ch2/HAYSTACK_NEEDLE.py	/^def grade(score, breakpoints=[60, 70, 80, 90], grades='FDCBA'):$/;"	f
+handler	log.py	/^handler = logging.StreamHandler(stdout)$/;"	v
+haystack	ch3/sets.py	/^haystack = [random.randint(1, 1000) for i in range(1, 100000)]$/;"	v
+htmlize	ch7/decorators.py	/^def htmlize(obj):$/;"	f
+index	ch3/dicts.py	/^index = collections.defaultdict(list)$/;"	v
+index	ch3/dicts.py	/^index = dict()$/;"	v
+inner	ch7/decorators.py	/^    def inner():$/;"	f	function:deco
+insert	ch11/FrenchDeck2.py	/^    def insert(self, key, value):$/;"	m	class:FrencDeck2
+inspect	ch11/Implemented_tombolas.py	/^    def inspect(self):$/;"	m	class:Bingo
+inspect	ch11/Implemented_tombolas.py	/^    def inspect(self):$/;"	m	class:LoterryBlower
+inspect	ch11/Implemented_tombolas.py	/^    def inspect(self):$/;"	m	class:TombolaList
+inspect	ch11/tombola.py	/^    def inspect(self):$/;"	m	class:Tombola
+l	ch11/sequence.py	/^l = list(range(10))$/;"	v
+l	ch2/ListsOperations.py	/^l = list(range(10))$/;"	v
+l	ch2/ListsOperations.py	/^l = list(range(10, 70, 10))$/;"	v
+large_order_promo	ch6/promos.py	/^def large_order_promo(order):$/;"	f
+large_order_promo	ch7/promos.py	/^def large_order_promo(order):$/;"	f
+large_order_promo	ch7/strategy_function_decorators.py	/^def large_order_promo(order):$/;"	f
+lewis	ch8/variables.py	/^lewis = charles$/;"	v
+light_off_command	ch6/command_function.py	/^def light_off_command():$/;"	f
+light_on_command	ch6/command_function.py	/^def light_on_command():$/;"	f
+ljubljana	ch2/Tuples.py	/^ljubljana = City('Ljubljana', 'Slovenia', 250000, (2, 2))$/;"	v
+load	ch11/Implemented_tombolas.py	/^    def load(self, iterable):$/;"	m	class:Bingo
+load	ch11/Implemented_tombolas.py	/^    def load(self, iterable):$/;"	m	class:LoterryBlower
+load	ch11/Implemented_tombolas.py	/^    load = list.extend$/;"	v	class:TombolaList
+load	ch11/tombola.py	/^    def load(self, iterable):$/;"	m	class:Tombola
+loaded	ch11/Implemented_tombolas.py	/^    def loaded(self):$/;"	m	class:Bingo
+loaded	ch11/Implemented_tombolas.py	/^    def loaded(self):$/;"	m	class:LoterryBlower
+loaded	ch11/Implemented_tombolas.py	/^    def loaded(self):$/;"	m	class:TombolaList
+loaded	ch11/tombola.py	/^    def loaded(self):$/;"	m	class:Tombola
+logger	log.py	/^logger = logging.getLogger()$/;"	v
+lottery	ch11/Implemented_tombolas.py	/^lottery = LoterryBlower(range(39))$/;"	v
+lst	ch2/ListsOperations.py	/^lst = list(range(3))$/;"	v
+lst	ch2/ListsOperations.py	/^lst = tuple(range(3))$/;"	v
+lst	ch3/sets.py	/^lst = [random.randint(1, 100) for i in range(30)]$/;"	v
+main	ch11/tombola_runner.py	/^def main(argv):$/;"	f
+main	ch6/command_class.py	/^def main():$/;"	f
+main	ch6/command_function.py	/^def main():$/;"	f
+main	ch6/strategy_class.py	/^def main():$/;"	f
+main	ch6/strategy_function.py	/^def main():$/;"	f
+main	ch7/average_oo.py	/^def main():$/;"	f
+main	ch7/strategy_function_decorators.py	/^def main():$/;"	f
+make_averager	ch7/average_oo.py	/^def make_averager():$/;"	f
+memview	ch2/ArrayMemoryViews.py	/^memview = memoryview(numbers)$/;"	v
+metro_areas	ch5/funct_programming.py	/^metro_areas = [Metropolis(name, cc, pop, LatLing(lat, lng))$/;"	v
+metro_data	ch5/funct_programming.py	/^metro_data = [('Tokyo', 'JP', 36.933, (35.689722, 139.691667)), ('Delhi NCR', 'IN', 21.935, (28.613889, 77.208889)),$/;"	v
+my_list	ch2/HAYSTACK_NEEDLE.py	/^my_list = []$/;"	v
+my_tag	ch5/parameters.py	/^my_tag = {'name': 'img', 'title': "'Sunset Boulevard'", 'src': "'sunset.jpg'", 'cls': "'framed'"}$/;"	v
+name_lat	ch5/funct_programming.py	/^name_lat = attrgetter('name', 'coord.lat')$/;"	v
+needles	ch3/sets.py	/^needles = [random.randint(1, 1000) for i in range(1, 100)]$/;"	v
+needles_found	ch3/sets.py	/^needles_found = len(set(needles) & set(haystack))$/;"	v
+needles_found	ch3/sets.py	/^needles_found = len(set(needles).intersection(haystack))$/;"	v
+new_item	ch2/HAYSTACK_NEEDLE.py	/^    new_item = random.randrange(160)$/;"	v
+numbers	ch2/ArrayMemoryViews.py	/^numbers = array.array('h', list(range(-2, 3)))$/;"	v
+nums	ch2/Array.py	/^nums = array('d', (randrange(1, 1000) for i in range(1000)))$/;"	v
+occurances	ch3/dicts.py	/^    occurances = index.get(word, [])$/;"	v
+param1	ch5/parameters.py	/^param1 = list(range(3))$/;"	v
+param2	ch5/parameters.py	/^param2 = {"key%s" % value: value for value in list(range(2))}$/;"	v
+pick	ch11/Implemented_tombolas.py	/^    def pick(self):$/;"	m	class:Bingo
+pick	ch11/Implemented_tombolas.py	/^    def pick(self):$/;"	m	class:LoterryBlower
+pick	ch11/Implemented_tombolas.py	/^    def pick(self):$/;"	m	class:TombolaList
+pick	ch11/tombola.py	/^    def pick(self):$/;"	m	class:Tombola
+pick	ch5/run.py	/^    def pick(self):$/;"	m	class:BingoCage
+pick	ch8/functions.py	/^    def pick(self, name):$/;"	m	class:HauntedBus
+pick	ch8/variables.py	/^    def pick(self, name):$/;"	m	class:Bus
+promos	ch6/strategy_function.py	/^promos = [$/;"	v
+promos	ch7/strategy_function_decorators.py	/^promos = []$/;"	v
+promotion	ch7/strategy_function_decorators.py	/^def promotion(promo_func):$/;"	f
+ranks	ch1/cart_deck.py	/^    ranks =  [str(n) for n in range(2,11)] + list('JQKA')$/;"	v	class:FrenchDeck
+ranks	ch11/FrenchDeck2.py	/^    ranks = [str(n) for n in range(2, 12)] + list('JQKA')$/;"	v	class:FrencDeck2
+remove	ch2/LComp_and_gen.py	/^remove = list(filter(lambda c: c != '$', symbols))$/;"	v
+reverse	ch5/run.py	/^def reverse(word):$/;"	f
+s	ch2/ListsOperations.py	/^s = 'bycicle'$/;"	v
+s	ch5/funct_programming.py	/^s = 'the time has come'$/;"	v
+s1	ch8/garbage_collection.py	/^s1 = 'ABC'$/;"	v
+s1	ch8/garbage_collection.py	/^s1 = {1, 2, 3}$/;"	v
+s2	ch8/garbage_collection.py	/^s2 = "TEST"$/;"	v
+s2	ch8/garbage_collection.py	/^s2 = 'ABC'$/;"	v
+s2	ch8/garbage_collection.py	/^s2 = s1$/;"	v
+set_card	ch11/sequence.py	/^def set_card(self, key, value):$/;"	f
+shortcut_names	ch10/vectorV2.py	/^    shortcut_names = "xyzt"$/;"	v	class:Vector2d
+sig	ch5/parameters.py	/^sig = signature(clip)$/;"	v
+simpler_fac	ch5/funct_programming.py	/^def simpler_fac(n):$/;"	f
+sizes	ch2/LComp_and_gen.py	/^sizes = list('MSL')$/;"	v
+snooze	ch7/decorators.py	/^def snooze(seconds):$/;"	f
+snums	ch2/Array.py	/^snums = array(nums.typecode, sorted(nums))$/;"	v
+spades_high	ch1/cart_deck.py	/^def spades_high(card):$/;"	f
+st	ch3/sets.py	/^st = {i for i in lst}$/;"	v
+stock	ch8/garbage_collection.py	/^stock = weakref.WeakKeyDictionary()$/;"	v
+suit_values	ch1/cart_deck.py	/^suit_values = dict(spades=3, hearts=2, diamonds=1, clubs=0)$/;"	v
+suits	ch1/cart_deck.py	/^    suits = 'spades diamonds clubs hearts'.split(' ')$/;"	v	class:FrenchDeck
+suits	ch11/FrenchDeck2.py	/^    suits = 'spades diamonds clubs hears'.split()$/;"	v	class:FrencDeck2
+symbols	ch2/LComp_and_gen.py	/^symbols = '$¢£¥€¤'$/;"	v
+t	ch11/Implemented_tombolas.py	/^t = TombolaList(range(100))$/;"	v
+t1	ch8/garbage_collection.py	/^t1 = (1,2,3)$/;"	v
+t1	ch8/variables.py	/^t1 = (1, 2, 3, [1, 2])$/;"	v
+t2	ch8/garbage_collection.py	/^t2 = t1[:]$/;"	v
+t2	ch8/variables.py	/^t2 = (1, 2, 3, [1, 2])$/;"	v
+t2	ch8/variables.py	/^t2 = [1, 2, 3, [2, 3], (2, 3, 4)]$/;"	v
+t3	ch8/variables.py	/^t3 = list(t2)$/;"	v
+t4	ch8/variables.py	/^t4 = t2[:]$/;"	v
+tag	ch5/parameters.py	/^def tag(name, *content, cls=None, **attrs):$/;"	f
+target	ch7/decorators.py	/^def target():$/;"	f
+test	ch11/tombola_runner.py	/^def test(cls, verbose=False):$/;"	f
+test	ch7/decorators.py	/^def test():$/;"	f
+testAddVectorOk	ch1/test_vector.py	/^    def testAddVectorOk(self):$/;"	m	class:TestVector
+testMultiplyVectorOk	ch1/test_vector.py	/^    def testMultiplyVectorOk(self):$/;"	m	class:TestVector
+test_bool	ch10/test_vectorV2.py	/^    def test_bool(self):$/;"	m	class:TestVector2d
+test_bool	ch9/test_vector2d.py	/^    def test_bool(self):$/;"	m	class:TestVector2d
+test_bytes	ch10/test_vectorV2.py	/^    def test_bytes(self):$/;"	m	class:TestVector2d
+test_bytes	ch9/test_vector2d.py	/^    def test_bytes(self):$/;"	m	class:TestVector2d
+test_changetypecode	ch10/test_vectorV2.py	/^    def test_changetypecode(self):$/;"	m	class:TestVector2d
+test_changetypecode	ch9/test_vector2d.py	/^    def test_changetypecode(self):$/;"	m	class:TestVector2d
+test_clone	ch10/test_vectorV2.py	/^    def test_clone(self):$/;"	m	class:TestVector2d
+test_clone	ch9/test_vector2d.py	/^    def test_clone(self):$/;"	m	class:TestVector2d
+test_format	ch10/test_vectorV2.py	/^    def test_format(self):$/;"	m	class:TestVector2d
+test_format	ch9/test_vector2d.py	/^    def test_format(self):$/;"	m	class:TestVector2d
+test_hash	ch9/test_vector2d.py	/^    def test_hash(self):$/;"	m	class:TestVector2d
+test_len	ch10/test_vectorV2.py	/^    def test_len(self):$/;"	m	class:TestVector2d
+test_readonly	ch9/test_vector2d.py	/^    def test_readonly(self):$/;"	m	class:TestVector2d
+test_representation	ch10/test_vectorV2.py	/^    def test_representation(self):$/;"	m	class:TestVector2d
+test_representation	ch9/test_vector2d.py	/^    def test_representation(self):$/;"	m	class:TestVector2d
+test_slicing	ch10/test_vectorV2.py	/^    def test_slicing(self):$/;"	m	class:TestVector2d
+test_vect_by_name	ch10/test_vectorV2.py	/^    def test_vect_by_name(self):$/;"	m	class:TestVector2d
+total	ch6/strategy_class.py	/^    def total(self):$/;"	m	class:LineItem
+total	ch6/strategy_class.py	/^    def total(self):$/;"	m	class:Order
+total	ch6/strategy_function.py	/^    def total(self):$/;"	m	class:LineItem
+total	ch6/strategy_function.py	/^    def total(self):$/;"	m	class:Order
+total	ch7/strategy_function_decorators.py	/^    def total(self):$/;"	m	class:LineItem
+total	ch7/strategy_function_decorators.py	/^    def total(self):$/;"	m	class:Order
+traveler_ids	ch2/Tuples.py	/^traveler_ids = [('Rado Osredkar', 1), ('Vladka Osredkar', 2)]$/;"	v
+triple	ch5/funct_programming.py	/^triple = partial(mul, 3)$/;"	v
+tshirts	ch2/LComp_and_gen.py	/^tshirts = [(color, size) for size in sizes$/;"	v
+typecode	ch10/vectorV2.py	/^    typecode = 'd'$/;"	v	class:Vector2d
+typecode	ch9/vector.py	/^    typecode = 'd'$/;"	v	class:Vector2d
+upper	ch5/funct_programming.py	/^upper = methodcaller('upper')$/;"	v
+user_dict	ch3/dicts.py	/^user_dict = UserDIct()$/;"	v
+vctr	ch10/test_vectorV2.py	/^vctr = Vector2d([2, 3])$/;"	v
+vctr	ch9/test_vector2d.py	/^vctr = Vector2d(2, 3)$/;"	v
+vrhnika	ch2/Tuples.py	/^vrhnika = City('Vrhnika', 'Slovenia', 15000, (1, 2))$/;"	v
+words	ch3/dicts.py	/^words = "And now I will do it and then I will not".split()$/;"	v
+wref	ch8/garbage_collection.py	/^wref = weakref.ref(a_set)$/;"	v
+x	ch9/vector.py	/^    def x(self):$/;"	m	class:Vector2d
+y	ch9/vector.py	/^    def y(self):$/;"	m	class:Vector2d
